@@ -1,0 +1,5 @@
+user_id,days_since_signup,total_orders,average_order_value,favorite_store,delivered_orders_percentage,last_order_time,days_since_last_second_order
+21665572,2064,12,17.166666746139526,McDonald's,91.6667,"2021-04-22 18:48:50",18
+823086,2765,9,29.842221683926052,McDonald's,55.5556,"2021-03-09 17:54:11",16
+46003429,1637,15,27.91666695276896,"Fire Wok",86.6667,"2021-03-03 15:37:07",7
+66277153,1331,5,32.15,Marjane,100.0000,"2021-08-14 11:56:57",0
